@@ -1,30 +1,30 @@
 # Awesome Sora 2
 
-A curated collection of the most useful tools, resources, and communities for creators working with **Sora 2**.  
-This list focuses on practical utilities, prompt databases, and collaboration spaces that help you generate, edit, and refine Sora outputs more efficiently.  
-Whether you’re experimenting with clips, building production workflows, or studying prompt patterns, these links are selected for reliability and direct value.
+A curated list of the most useful tools, resources, and communities around **Sora 2**.  
+This list includes utilities, prompt libraries, and community hubs built for creators working with OpenAI’s Sora video model.
 
 ---
 
-## Core Tools
-- [Sora by Thirdme](https://sora.thirdme.com/) – Primary interface for generating and managing Sora videos.
-- [SoraWiki Clips Index](https://sorawiki.com/clips/index) – Curated archive of example clips with prompt references.
-- [Sora Prompts](http://soraprompts.dev/) – Community-driven prompt database for quick inspiration and testing.
+## Core Resources
+- [SoraWiki Clips Gallery](https://sorawiki.com/clips/index) – Community-driven wiki and showcase hub for Sora 2 video generation.
+- [Sora Prompts](http://soraprompts.dev/) – AI video prompt library for discovering and sharing high-quality Sora prompts.
+- [Sora by Thirdme](https://sora.thirdme.com/) – AI-powered watermark remover. Removes Sora watermarks with frame-by-frame analysis and fast processing.
 
 ---
 
 ## Utilities
-- [Clips2Stitch](https://clips2stitch.com/) – Merge multiple Sora clips into a seamless video.
-- [Remove Sora Watermark](https://www.removesorawatermark.online/) – Watermark cleanup utility (use responsibly).
+- [Clips2Stitch](https://www.clips2stitch.com/merge) – Merge Sora AI videos instantly via share links or uploads.  
+  Turn multiple 10-second clips into seamless 20-second outputs. Free, fast, and no uploads needed.
+- [Remove Sora Watermark](https://www.removesorawatermark.online/) – AI-powered watermark removal with secure processing and professional-grade results.
 
 ---
 
 ## Communities
-- [Sora 2 Official Discord](https://discord.gg/rgaqHrjQ) – Main server for invite codes, news, and general discussion.
-- [Draft 16 Discord](https://discord.gg/ggmQfNqpCZ) – Focused community for advanced users refining techniques and sharing experiments.
+- [Sora 2 Official Discord](https://discord.gg/rgaqHrjQ) – General community for invite codes and updates.  
+- [Draft 16 Discord](https://discord.gg/ggmQfNqpCZ) – Smaller, focused group for experimentation and deeper collaboration.
 
 ---
 
 ## Contribute
-To add a new tool or resource, submit a pull request with one clear addition at a time.  
-Only include high-quality, publicly accessible links that provide real value to Sora creators.
+Submit one addition per pull request with a short, factual description.  
+Include only public, relevant, and verified Sora-related tools or resources.
